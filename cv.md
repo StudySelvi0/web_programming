@@ -32,3 +32,25 @@ def im_ghoul():
 
 im_ghoul()
 ```
+
+## Experience & Projects
+- **Neural Networks:** Training and fine-tuning models (LoRA, ResNet).
+- **Algorithms App:** Application for Minimum Spanning Trees.
+- **Personal Website:** This CV.
+
+## Education
+- Applied Mathematics (2nd Year Student)
+
+## Languages
+- English B1 (Intermediate)
+
+## Photo
+<div align="center">
+  <img src="image2.png" width="300" alt="Stiblo Vladislav">
+  
+  <br><br>
+  <i>Literally me</i>
+  <br><br>
+  
+  <img src="ghoul.jpg" width="450" alt="Ghoul">
+</div>
